@@ -14,7 +14,7 @@ I am Aishik Mukherjee. I'm from India. Currently, I'm a 🎓 Computer Science an
 ---
 **Even more things about me:**
 
-- 📚 I’m currently learning android development and different programming languages
+- 📚 I’m currently learning coding and different programming languages
 - ⚡️ I love open source, and I actively learn more about a subject through the various open source repositories spread through GitHub.
 - 📫 How to reach me: aishikm2002@gmail.com
 
