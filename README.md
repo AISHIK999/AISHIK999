@@ -11,7 +11,8 @@ I am Aishik Mukherjee. I'm from India. Currently, I'm a 🎓 Computer Science an
 
 - 📚 I’m currently learning coding and different programming languages
 - ⚡️ I love open source, and I actively learn more about a subject through the various open source repositories spread through GitHub.
-- 📫 How to reach me: aishikm2002@gmail.com <a href="https://https://t.me/AISHIK999/" title="Telegram">
+- 📫 How to reach me: aishikm2002@gmail.com 
+<a href="https://https://t.me/AISHIK999/" title="Telegram">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"  width="100" height="30"></a>
 
 <a href="https://forum.xda-developers.com/m/aishik999.11737149/" title="XDA-Developers">
