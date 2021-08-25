@@ -23,9 +23,9 @@ I am Aishik Mukherjee. I'm from India. Currently, I'm a 🎓 Computer Science an
 ---
 
 **Languages and Tools:**  
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python "Python")
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github "GitHub")
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
@@ -33,6 +33,7 @@ I am Aishik Mukherjee. I'm from India. Currently, I'm a 🎓 Computer Science an
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
