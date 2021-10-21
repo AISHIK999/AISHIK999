@@ -3,7 +3,7 @@
 
 <p>
 <img align="right" alt="GIF" src="https://cdna.artstation.com/p/assets/images/images/033/360/764/original/metin-seven-metin-seven-3d-animated-gif-animation-computer-work-night.gif?1609327662" width="350" height="262"/>
-I am Aishik Mukherjee. I'm from India. Currently, I'm a 🎓 Computer Science and Technology student at <a href="https://uem.edu.in/uem-kolkata/">University of Engineering and Management (UEM), Kolkata</a>. I love to find solutions to real life problems using my big brain programming powers <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > .
+I am Aishik Mukherjee. I'm from India. Currently, I'm a student pursuing a Bachelor's degree in 🎓 Computer Science and Technology at <a href="https://uem.edu.in/uem-kolkata/">University of Engineering and Management (UEM), Kolkata</a>. I love to simplify complex processes using my big brain programming powers <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > .
 </p>
 
 ---
