@@ -42,6 +42,8 @@ I am Aishik Mukherjee. I'm from India. Currently, I'm a student pursuing a Bache
 
 ![Aishik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AISHIK999&show_icons=true&theme=dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AISHIK999&theme=dark&" alt="Aishik Mukherjee" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
