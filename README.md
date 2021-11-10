@@ -44,7 +44,7 @@ I am Aishik Mukherjee. I'm from India. Currently, I'm a student pursuing a Bache
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AISHIK999&theme=dark&" alt="Aishik Mukherjee" /></p>
 <!--START_SECTION:waka-->
 ```text
-
+Python   1 hr 47 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
