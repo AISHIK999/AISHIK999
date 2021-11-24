@@ -18,16 +18,16 @@ Currently, I'm a student pursuing a Bachelor's degree in 🎓 Computer Science a
 - 📫 How to reach me: 
 
 <a href="https://https://t.me/AISHIK999/" title="Telegram">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"  width="100" height="30"></a>
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 
 <a href="https://forum.xda-developers.com/m/aishik999.11737149/" title="XDA-Developers">
-<img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white" alt="XDA-Developers"  width="100" height="30"></a>
+<img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white" alt="XDA-Developers"></a>
 
 <a href="https://www.instagram.com/aishik999/" title="Instagram">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"  width="100" height="30"></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <a href="https://www.facebook.com/aishik.mukherjee.503" title="Facebook">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"  width="100" height="30"></a>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ---
 
