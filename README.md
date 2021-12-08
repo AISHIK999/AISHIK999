@@ -63,7 +63,7 @@ Currently, I'm a student pursuing a Bachelor's degree in 🎓 Computer Science a
 ![Aishik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AISHIK999&show_icons=true&theme=dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AISHIK999&theme=dark&" alt="Aishik Mukherjee" /></p>
 
-[![Aishik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AISHIK999&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Aishik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AISHIK999&theme=dark)]
 
 ---
 
