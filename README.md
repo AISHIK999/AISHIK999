@@ -3,7 +3,7 @@
 
 
 <p>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="350" height="262"/>
 Currently, I'm a student pursuing a Bachelor's degree in 🎓 Computer Science and Technology at <a href="https://uem.edu.in/uem-kolkata/">University of Engineering and Management (UEM), Kolkata</a>. I aim to become a full stack web developer by the time I graduate. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > .
 </p>
 
