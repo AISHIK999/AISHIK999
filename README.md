@@ -1,5 +1,7 @@
+![profile-header](resources/header.jpg)
+
 <h1 align="center"> Hello there... I'm Aishik Mukherjee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">A wannabe full stack developer</h3>
+<h3 align="center">A programmer and a wannabe developer</h3>
 
 
 <p>
@@ -29,6 +31,10 @@ Currently, I'm a student pursuing a Bachelor's degree in 🎓 Computer Science a
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ---
+
+<p align="center">
+<img src="resources/computer.gif" alt="https://c.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif"/>
+</p>
 
 **Languages that I work with:**  
 
