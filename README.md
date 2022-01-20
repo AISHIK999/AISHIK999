@@ -5,16 +5,16 @@
 
 
 <p>
-Currently, I'm a student pursuing a Bachelor's degree in 🎓 Computer Science and Technology at <a href="https://uem.edu.in/uem-kolkata/">University of Engineering and Management (UEM), Kolkata</a>. I aim to become a full stack web developer by the time I graduate. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > .
+Currently, I'm a student pursuing a Bachelor's degree in 🎓 Computer Science and Technology at <a href="https://uem.edu.in/uem-kolkata/">University of Engineering and Management (UEM), Kolkata</a>. I aim to become a full stack web developer by the time I graduate. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > 
 </p>
 
 ---
 **Even more things about me:**
 
-- 📜 I am interested in Android and Linux development and have personal projects based on them.
-    You can also check them out on my <a href="https://sourceforge.net/u/aishik999/profile">Sourceforge</a>
-- ⚡️ I love open source, and I actively learn more about a subject through the various open source      repositories spread through GitHub.
-- 🌈 I love watching anime and playing indie horror games ;)
+- 📜 Currently I am leaning Data Structures and Algorithm and Front End Web Development. I would gladly accept any kind of collaboration in these fields :)
+- ⚡️ I love open source, and I actively learn more about a subject through the various open source repositories spread through GitHub.
+- 🌱 You can also check out my <a href="https://sourceforge.net/u/aishik999/profile">Sourceforge</a>. I have some cool stuff there ;)
+- 🌈 I love watching anime and playing indie horror games.
 
 - 📫 How to reach me: 
 
