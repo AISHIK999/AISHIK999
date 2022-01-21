@@ -11,7 +11,7 @@ Currently, I'm a student pursuing a Bachelor's degree in 🎓 Computer Science a
 ---
 **Even more things about me:**
 
-- 📜 Currently I am leaning Data Structures and Algorithm and Front End Web Development. I would gladly accept any kind of collaboration in these fields :)
+- 📜 Currently I am learning Data Structures and Algorithm and Front End Web Development. I would gladly accept any kind of collaboration in these fields :)
 - ⚡️ I love open source, and I actively learn more about a subject through the various open source repositories spread through GitHub.
 - 🌱 You can also check out my <a href="https://sourceforge.net/u/aishik999/profile">Sourceforge</a>. I have some cool stuff there ;)
 - 🌈 I love watching anime and playing indie horror games.
