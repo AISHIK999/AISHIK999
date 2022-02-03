@@ -1,4 +1,3 @@
-![profile-header](resources/header.jpg)
 
 <h1 align="center"> Hello there... I'm Aishik Mukherjee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">A programmer and a wannabe developer</h3>
