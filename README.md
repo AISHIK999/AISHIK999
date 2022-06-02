@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center"> Hello there... I'm Aishik Mukherjee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave"> ! </h1>
+<h1 align="center"> Hello there... I'm Aishik Mukherjee 👋! </h1>
 <h3 align="center">A web and data science enthusiast</h3>
 
 
