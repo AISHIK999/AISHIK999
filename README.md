@@ -11,8 +11,8 @@
 
 <p>
 Currently, I'm a student, pursuing a Bachelor's degree in 🎓 Computer Science and Technology. I love simplifying 
-complex real world problems by a magical process called Programming. <img src="https://media.giphy.
-com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"  alt="typing"> 
+complex real world problems by a magical process called Programming.
+  
 </p>
 
 ---
