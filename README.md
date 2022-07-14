@@ -1,12 +1,12 @@
-<div align= "center"><img src="resources/header.jpg" width="1120" height="293" alt="'header"/>
+<div align= "center"><img src="resources/star-wars-hello-there.gif" alt="https://tenor.com/view/hello-there-general-kenobi-gif-18841535"/>
 
 ---
 
 
 </div>
 
-<h1 align="center"> Hello there... I'm Aishik Mukherjee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave"> ! </h1>
-<h3 align="center">A web and data science enthusiast</h3>
+<h1 align="center">I'm Aishik Mukherjee 👋! </h1>
+<h3 align="center">A Python programmer and a Data Science enthusiast</h3>
 
 
 <p>
@@ -18,11 +18,9 @@ com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"  alt="typing">
 ---
 **About me:**
 
-- 📜 Currently I am trying to become a python developer and learn Data Science. I would gladly accept any kind of 
-  collaboration in these fields.
+- 📜 I'm a Python programmer and a Data Science enthusiast. I would gladly accept any collaboration in these fields.
 - ⚡ I love open source, and honestly, the open source communities, the developers and their projects are the 
-  pillars of all the 
-  stuff I have learned till date.
+  pillars of all the stuff I have learned till date.
 - 🌱 You can also check out my <a href="https://sourceforge.net/u/aishik999/profile">Sourceforge</a>. I have some cool stuff there ;)
 - 🌈 I love cycling and playing indie horror games.
 
@@ -38,7 +36,7 @@ com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"  alt="typing">
 ---
 
 <p align="center">
-<img src="resources/computer.gif" alt="https://c.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif"/>
+<img src="resources/computer.gif" alt="computer"/>
 </p>
 
 ---
@@ -56,16 +54,15 @@ com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"  alt="typing">
 **Tools that I work with:**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ Idea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ---
 
