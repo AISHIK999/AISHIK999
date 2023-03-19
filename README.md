@@ -1,9 +1,7 @@
 <div align= "center">
 <img src="resources/star-wars-hello-there.gif" alt="https://tenor.com/view/hello-there-general-kenobi-gif-18841535"/>
 
-
-</div>
-
+  
 <h1 align="center">I'm Aishik Mukherjee 👋! </h1>
 <h3 align="center">A Pythonista, aiming to become a Data Scientist</h3>
 
@@ -11,8 +9,8 @@
 <p>
 Currently, I'm a student, pursuing a Bachelor's Degree 🎓 in Computer Science and Technology. I love simplifying 
 complex real-world problems by a magical process called Programming.
-  
 </p>
+</div>
 
 ---
 **About me:**
@@ -33,6 +31,7 @@ complex real-world problems by a magical process called Programming.
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ---
+<div align= "center">
 
 <img src="resources/BoldDeafeningHedgehog-size_restricted.gif" alt="https://gfycat.com/bolddeafeninghedgehog"/>
 <!-- GIF source: https://gfycat.com/bolddeafeninghedgehog -->
@@ -85,3 +84,4 @@ complex real-world problems by a magical process called Programming.
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AISHIK999.AISHIK999)
+</div>
