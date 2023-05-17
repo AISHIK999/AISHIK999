@@ -1,13 +1,11 @@
 <img src="resources/banner.png"/>
 
----
 
 <h1 align="center"> Hi there! I am Aishik Mukherjee 👋!</h1>
 
 <h3 align="center">A highly motivated Pythonista with a keen interest in Machine Learning.</h3>
 <p align="center">Currently, I'm a student, pursuing a Bachelor's Degree in Computer Science and Technology. I love simplifying complex real-world problems by a magical process called Programming.</p>
 
----
 
 <h2 align="center">ABOUT ME</h2>
 
@@ -17,7 +15,6 @@
 * 🌈 A Linux enthusiast with past experience in building custom Android ROMs and Kernels as a hobby. 
 * 📝 Fun fact: I like traveling to remote places. It helps me to relax and reduce burnout.
 
----
 
 <h2 align="center">CONTACT ME</h2>
 <div align="center">
@@ -31,7 +28,6 @@
 
 </div>
 
----
 
 <h2 align="center">SOME LANGUAGES I USE</h2>
 
@@ -44,7 +40,6 @@
 
 </div>
 
----
 
 <h2 align="center">SOME TOOLS I USE</h2>
 
@@ -63,7 +58,6 @@
 
 </div>
 
----
 
 <h2 align="center">SOME EDITORS I USE</h2>
 
@@ -76,7 +70,6 @@
 
 </div>
 
----
 
 <h2 align="center">MY GITHUB CONTRIBUTIONS</h2>
 
@@ -88,7 +81,7 @@
 
 </div>
 
----
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="hello"> <em>
@@ -100,4 +93,3 @@
 
 </div>
 
----
