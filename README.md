@@ -1,7 +1,7 @@
 <img src="resources/banner.png"/>
 
 
-<h1 align="center"> Hi there! I am Aishik Mukherjee 👋!</h1>
+<h1 align="center"> Hi there! I am Aishik Mukherjee 👋🏼!</h1>
 
 <h3 align="center">A highly motivated Pythonista with a keen interest in Machine Learning.</h3>
 <p align="center">Currently, I'm a student, pursuing a Bachelor's Degree in Computer Science and Technology. I love simplifying complex real-world problems by a magical process called Programming.</p>
@@ -9,11 +9,11 @@
 
 <h2 align="center">ABOUT ME</h2>
 
-* 📜 A visually and analytically driven, systematic person who loves extracting information from raw data.
-* ⚡ My expertise also lies in backend development using Flask, Django, MySQL and MongoDB, enabling me to build robust and scalable applications.
-* 🌱 Check out some of my works on [Sourceforge](https://sourceforge.net/u/aishik999/profile "Teleport to Sourceforge"), or visit my [Website](https://aishik999.github.io "Teleport to my website") for more information.
-* 🌈 A Linux enthusiast with past experience in building custom Android ROMs and Kernels as a hobby. 
-* 📝 Fun fact: I like traveling to remote places. It helps me to relax and reduce burnout.
+* 💫 A visually and analytically driven, systematic person who turn s raw data into meaningful insights.
+* 📖 My expertise also lies in backend using Flask, MySQL and MongoDB, enabling me to build robust and scalable applications.
+* 🗃️ Check out some of my works on [Sourceforge](https://sourceforge.net/u/aishik999/profile "Teleport to Sourceforge"), or visit my [Website](https://aishik999.github.io "Teleport to my website") for more information.
+* 🖥️ A Linux enthusiast maintaining a home server running Fedora, with stoarage and media streaming capabilities. Ex-Android ROM/Kernel buildbot.
+* 🌈 Fun fact: I like traveling to remote places. It helps me to relax and reduce burnout.
 
 
 <h2 align="center">CONTACT ME</h2>
@@ -48,13 +48,14 @@
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 </div>
 
@@ -75,9 +76,8 @@
 
 <div align="center">
 
-![Aishik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AISHIK999&show_icons=true&theme=chartreuse-dark)
-![Aishik's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AISHIK999&theme=chartreuse-dark&show_icons=true)
-![Aishik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AISHIK999&theme=chartreuse-dark&langs_count=15&custom_title=Progress)
+[![Aishik's contribution](https://streak-stats.demolab.com?user=AISHIK999&theme=gruvbox)](https://git.io/streak-stats)
+![Aishik's wakatime stats](https://github-readme-stats-gamma-lake.vercel.app/api/wakatime?username=AISHIK999&theme=gruvbox&langs_count=15&custom_title=Progress)
 
 </div>
 
@@ -85,7 +85,7 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="hello"> <em>
-<b>I love interacting and collaborating with people over work. So feel free to connect with me</b> 😊
+<b>I love interacting and collaborating with people over work. So feel free to connect with me</b> 😃
 </em>
 <br/>
 
