@@ -1,18 +1,19 @@
-<img src="resources/banner.png"/>
+<img src="https://ik.imagekit.io/AISHIK999/img/3.png?updatedAt=1694007650533"/>
 
 
 <h1 align="center"> Hi there! I am Aishik Mukherjee 👋🏼!</h1>
 
-<h3 align="center">A highly motivated Pythonista with a keen interest in Machine Learning.</h3>
-<p align="center">Currently, I'm a student, pursuing a Bachelor's Degree in Computer Science and Technology. I love simplifying complex real-world problems by a magical process called Programming.</p>
+<h3 align="center">A highly motivated Pythonista with a keen interest in Linux System Administration and Backend Development.</h3>
+<p align="center">Currently pursuing a Bachelor's Degree in Computer Science and Technology, I love solving real-world challenges through the magical art of programming 🪄.</p>
 
 
 <h2 align="center">ABOUT ME</h2>
 
-* 💫 A visually and analytically driven, systematic person who turn s raw data into meaningful insights.
-* 📖 My expertise also lies in backend using Flask, MySQL and MongoDB, enabling me to build robust and scalable applications.
-* 🗃️ Check out some of my works on [Sourceforge](https://sourceforge.net/u/aishik999/profile "Teleport to Sourceforge"), or visit my [Website](https://aishik999.github.io "Teleport to my website") for more information.
-* 🖥️ A Linux enthusiast maintaining a home server running Fedora, with stoarage and media streaming capabilities. Ex-Android ROM/Kernel buildbot.
+* 💫 A passionate backend developer who loves to build and maintain scalable and reliable systems, using FastAPI, MySQL, MongoDB and Docker.
+*  🖥️ A Linux enthusiast maintaining a RHEL-based homeserver, capable of data storage, media streaming among other services.
+* 🗃️ Ex-Android ROM/Kernel buildbot. Check out some of my works on [Sourceforge](https://sourceforge.net/u/aishik999/profile "Teleport to Sourceforge"), or visit my [Website](https://aishik999.github.io "Teleport to my website") for more information.
+* 📖 Passionate about Machine Learning.
+* 📚I am currently looking into GraphQL.
 * 🌈 Fun fact: I like traveling to remote places. It helps me to relax and reduce burnout.
 
 
@@ -33,10 +34,10 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
+[![Markdown](https://skillicons.dev/icons?i=md&theme=dark)](https://daringfireball.net/projects/markdown/)
+[![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://www.gnu.org/software/bash/)
+[![C](https://skillicons.dev/icons?i=c&theme=dark)](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 
 </div>
 
@@ -45,32 +46,16 @@
 
 <div align="center>
 
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
+[![Linux](https://skillicons.dev/icons?i=linux&perline=3)](https://www.linux.org/)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi&perline=3)](https://fastapi.tiangolo.com/)
+[![Docker](https://skillicons.dev/icons?i=docker&perline=3)](https://www.docker.com/)
+[![MongioDB](https://skillicons.dev/icons?i=mongodb&perline=3)](https://www.mongodb.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql&perline=3)](https://www.mysql.com/)
+[![GCP](https://skillicons.dev/icons?i=gcp&perline=3)](https://https://cloud.google.com/)
+[![AWS](https://skillicons.dev/icons?i=aws&perline=3)](https://aws.amazon.com/)
+[![Tensorflow](https://skillicons.dev/icons?i=tensorflow&perline=3)](https://www.tensorflow.org/)
 
 </div>
-
-
-<h2 align="center">SOME EDITORS I USE</h2>
-
-<div align="center">
-
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
 
 <h2 align="center">MY GITHUB CONTRIBUTIONS</h2>
 
@@ -88,8 +73,6 @@
 <b>I love interacting and collaborating with people over work. So feel free to connect with me</b> 😃
 </em>
 <br/>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AISHIK999.AISHIK999)
 
 </div>
 
