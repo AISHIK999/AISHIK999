@@ -3,9 +3,7 @@
 
 <h1 align="center"> Hi there! I am Aishik Mukherjee 👋🏼!</h1>
 
-<h3 align="center">A highly motivated Pythonista with a keen interest in Linux System Administration and Backend Development.</h3>
-<p align="center">Currently pursuing a Bachelor's Degree in Computer Science and Technology, I love solving real-world challenges through the magical art of programming 🪄.</p>
-
+<p align="center">A highly motivated Pythonista with a keen interest in Linux System Administration and Backend Development. Currently pursuing a Bachelor's Degree in Computer Science and Technology, I love solving real-world challenges through the magical art of programming 🪄.</p>
 
 <h2 align="center">ABOUT ME</h2>
 
@@ -26,6 +24,8 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/aishik.mukherjee.503" title="Facebook">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="mailto:aishikm2002@duck.com" title="Gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <h2 align="center">SOME TOOLS I USE</h2>
 
-<div align="center>
+<div align="center">
 
 [![Linux](https://skillicons.dev/icons?i=linux&perline=3)](https://www.linux.org/)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi&perline=3)](https://fastapi.tiangolo.com/)
@@ -62,6 +62,7 @@
 <div align="center">
 
 [![Aishik's contribution](https://streak-stats.demolab.com?user=AISHIK999&theme=gruvbox)](https://git.io/streak-stats)
+
 ![Aishik's wakatime stats](https://github-readme-stats-gamma-lake.vercel.app/api/wakatime?username=AISHIK999&theme=gruvbox&langs_count=15&custom_title=Progress)
 
 </div>
