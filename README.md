@@ -6,17 +6,17 @@
   </a>
 </p>
 <p align="center">
-  A highly motivated pythonista and a Robotic Process Automation Developer. Linux enthusiast with a keen interest in backend development. Creative mindset paired with out of the box thinking capabilities allowing development of robust solutions 🪄.
+  A highly motivated Pythonista and a DataOps developer, linux enthusiast with a keen interest in backend development. Creative mindset paired with out of the box thinking capabilities allowing development of robust solutions 🪄.
 </p>
 <h2 align="center">ABOUT ME</h2>
 <ul align="left">
-  <li>💫 Passionate backend developer who loves to build and maintain scalable and reliable systems, using FastAPI, MySQL, MongoDB, and Docker.</li>
-  <li>🖥️ Linux enthusiast maintaining a RHEL-based homeserver, capable of data storage, media streaming, and other services.</li>
+  <li>💫 Passionate DataOps developer who loves to build and maintain scalable and reliable data analytics systems.</li>
+  <li>🖥️ Linux enthusiast maintaining a debian home-server, capable of data storage, media streaming, VPN among other services.</li>
   <li>🗃️ Ex-Android ROM/Kernel dev.</li>
   <li>📖 Interested in Machine Learning.</li>
   <li>🌈 Fun fact: I like traveling to remote places. It helps me to relax and reduce burnout.</li>
 </ul>
-<p align="center">
+<p align="left">
   Listening to:
   <br>
   <img src="https://lastfm-recently-played-readme-six.vercel.app/api?user=AISHIK999&count=1&header_size=none&bg_color=665c54" alt="Listening now">
@@ -38,14 +38,14 @@
 </p>
 <h2 align="center">MY CONTRIBUTIONS</h2>
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="80%"/>
   <br>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AISHIK999&theme=gruvbox" alt="Aishik's contribution" width="100%"/>
+    <img src="https://streak-stats.demolab.com?user=AISHIK999&theme=gruvbox" alt="Aishik's contribution" width="80%"/>
   </a>
   <br>
   <a href="#">
-    <img src="https://github-readme-stats-gamma-lake.vercel.app/api/wakatime?username=AISHIK999&theme=gruvbox&langs_count=15&custom_title=Languages%20used%20over%20time" alt="Aishik's wakatime stats" width="100%"/>
+    <img src="https://github-readme-stats-gamma-lake.vercel.app/api/wakatime?username=AISHIK999&theme=gruvbox&langs_count=15&custom_title=Languages%20used%20over%20time" alt="Aishik's wakatime stats" width="80%"/>
   </a>
 </div>
 <div align="center">
