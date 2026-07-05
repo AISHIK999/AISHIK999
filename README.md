@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Aishik Mukherjee 👋</h1>
+<img src="https://ik.imagekit.io/9te6fdrrt/5.png" alt="Banner Image" width="100%"/>
+
 <h3 align="center">🚀 DataOps Developer • Pythonista • Linux Enthusiast</h3>
 
 <p align="center">
@@ -57,7 +58,7 @@
 
 ### 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.aishik@aishik999.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.hello@aishik999.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aishik999.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishik999)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aishik999)
