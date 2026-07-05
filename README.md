@@ -5,8 +5,6 @@
   <i>I speak fluent Python, cryptic regex, and passive-aggressive git commit messages</i>
 </p>
 
----
-
 <table align="center">
   <tr>
     <td>
@@ -17,10 +15,11 @@
   </tr>
 </table>
 
+---
 
 ### 🪄 About Me
 
-- 💫 Passionate **DataOps developer** who loves building and maintaining scalable, reliable data analytics systems
+- 💫 Passionate **DataOps developer** who loves building and maintaining scalable, reliable big-data procesing systems
 - 🐍 Highly motivated **Pythonista** with a keen interest in backend development
 - 🖥️ **Linux enthusiast** — running a Debian home-server for storage, media streaming, VPN, and more
 - 📱 **Ex-Android ROM/Kernel developer**
@@ -58,6 +57,7 @@
 
 ### 📫 Connect with Me
 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.aishik@aishik999.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aishik999.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishik999)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aishik999)
