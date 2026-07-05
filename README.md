@@ -6,18 +6,8 @@
 
 ## 💻 Coding Activity (via WakaTime)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📅 Last 7 Days</h3>
-      <img src="wakatime_7days.svg" alt="WakaTime Last 7 Days" width="100%"/>
-    </td>
-    <td width="50%">
-      <h3>♾️ All-Time Metrics</h3>
-      <img src="wakatime_alltime.svg" alt="WakaTime All Time" width="100%"/>
-    </td>
-  </tr>
-</table>
+  <img src="readme-wakatime-stats.svg" alt="WakaTime Last 7 Days" width="100%"/>
+  <img src="readme-github-commit-history.svg" alt="WakaTime All Time" width="100%"/>
 
 ---
 
