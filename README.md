@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/9te6fdrrt/Aishik%20Mukherjee.png" alt="Banner Image" width="100%"/>
+<img src="res/banner.png" alt="Banner Image" width="100%"/>
 
 <h3 align="center">🚀 DataOps Developer • Pythonista • Linux Enthusiast</h3>
 
