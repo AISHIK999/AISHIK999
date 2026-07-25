@@ -51,6 +51,24 @@
 
 ---
 
+<picture>
+  <source
+      srcset="https://github-stats-extended.vercel.app/api?username=AISHIK999&rank_icon=github&custom_title=My%20GitHub%20stats&show_icons=true&include_all_commits=true&theme=algolia"
+      media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api?username=AISHIK999&rank_icon=github&custom_title=My%20GitHub%20stats&show_icons=true&include_all_commits=true&theme=algolia" />
+</picture>
+
+<picture>
+  <source
+      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=AISHIK999&custom_title=My%20GitHub%20stats&langs_count=6&theme=algolia"
+      media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=AISHIK999&custom_title=My%20GitHub%20stats&langs_count=6&theme=algolia" />
+</picture>
+
+---
+
 <img src="readme-wakatime-stats.svg" alt="WakaTime Stats" width="100%"/>
 <img src="readme-github-commit-history.svg" alt="GitHub Commit History" width="100%"/>
 
